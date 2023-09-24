@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyr.com/api/projects/status/32r69cvhplt1dff1?svg=true)](https://ci.appveyor.com/project/Madlaxxx/autotestwork4)
+[![Build status](https://ci.appveyor.com/api/projects/status/32r69cvhplt1dff1?svg=true)](https://ci.appveyor.com/project/Madlaxxx/autotestwork4)
